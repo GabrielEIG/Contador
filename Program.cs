@@ -17,7 +17,7 @@ class Program
         Console.WriteLine("------------------------");
         Console.WriteLine("--- Menu de contadoresss ---");
         Console.WriteLine("------------------------");
-        Console.WriteLine("1- Iniciar contador.");
+        Console.WriteLine("1- Iniciar contadorrr.");
         Console.WriteLine("2- Detener un contador.");
         Console.WriteLine("3- Mostrar el estado actual de los contadores.");
         Console.WriteLine("4- Salir del programa.");
